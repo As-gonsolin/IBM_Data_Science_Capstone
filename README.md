@@ -1,2 +1,6 @@
-# IBM_Data_Science_Capstone
-IBM Data Science Capstone Project (Clustering &amp; Analysis of Muay Thai Boxing Gyms in Bangkok Thailand)
+# IBM Data Science Capstone
+
+IBM Data Science Professional Certificate 
+(Capstone Project) 
+
+'Clustering & Analysis of Muay Thai Boxing Gyms in Bangkok Thailand'
