@@ -1,10 +1,9 @@
-# IBM Data Science Capstone
+# IBM Data Science Capstone Project
 
-IBM Data Science Professional Certificate Program
-(Capstone Project) 
-
-'Clustering & Analysis of Muay Thai Boxing Gyms in Bangkok, Thailand'
+IBM Data Science Professional Certificate Program 
 
 
-from IPython.display import Image 
-Image(filename='MT.jpg', width='100%')
+Clustering & Analysis of Muay Thai Boxing Gyms in Bangkok, Thailand
+
+
+
