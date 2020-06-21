@@ -3,7 +3,10 @@
 IBM Data Science Professional Certificate Program 
 
 
-Clustering & Analysis of Muay Thai Boxing Gyms in Bangkok, Thailand
 
+
+
+Clustering & Analysis of Muay Thai Boxing Gyms in Bangkok, Thailand
+(June 2020)
 
 
