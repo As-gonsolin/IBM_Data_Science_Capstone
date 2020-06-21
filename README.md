@@ -14,5 +14,4 @@ Clustering & Analysis of Muay Thai Boxing Gyms in Bangkok, Thailand
 
 
 
-
-![MT](https://user-images.githubusercontent.com/49548634/85228193-2c0edc00-b40c-11ea-98ad-e3dccf3e8153.jpg)
+![Muay_Thai](https://user-images.githubusercontent.com/49548634/85228308-fae2db80-b40c-11ea-84b9-0ece04859630.jpg)
